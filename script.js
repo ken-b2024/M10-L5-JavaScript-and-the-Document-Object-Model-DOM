@@ -78,8 +78,8 @@ function textColor() {
     document.getElementById('element3').style.color = 'lightgreen';
 }
 
-function backgroundColor() {
-    document.getElementById('element4').style.backgroundColor = "blue";
+function changeColor() {
+    document.getElementById('box1').style.backgroundColor = "blue";
 }
 
 function changeText() {
